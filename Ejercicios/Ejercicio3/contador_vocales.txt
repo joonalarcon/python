@@ -1,0 +1,2 @@
+Contador de vocales:
+Este programa cuenta el número de vocales (a, e, i, o, u) en una cadena ingresada por el usuario. Itera a través de cada letra en la cadena y verifica si es una vocal.

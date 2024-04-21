@@ -1,0 +1,9 @@
+Tabla de multiplicar:
+
+El programa solicita al usuario un número y luego muestra la tabla de multiplicar de ese número del 1 al 10. Por ejemplo, si el usuario ingresa 5, el programa mostrará:
+
+5 x 1 = 5
+5 x 2 = 10
+...
+5 x 10 = 50
+

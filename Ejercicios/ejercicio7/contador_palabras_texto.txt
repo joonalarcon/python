@@ -1,0 +1,2 @@
+Contador de palabras en un texto:
+Escribe un programa que cuente la cantidad de palabras en un texto ingresado por el usuario. Puedes considerar que las palabras están separadas por espacios en blanco.

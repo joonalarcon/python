@@ -1,0 +1,2 @@
+Número par o impar:
+Este programa verifica si un número ingresado por el usuario es par o impar. Un número par es aquel que se puede dividir exactamente por 2, mientras que un número impar tiene un residuo diferente de cero al dividirlo por 2.

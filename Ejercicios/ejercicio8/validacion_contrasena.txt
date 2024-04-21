@@ -1,0 +1,7 @@
+
+
+
+Validación de contraseña:
+Escribe una función que tome una contraseña como entrada y verifique si cumple con los siguientes criterios:
+Debe tener al menos 8 caracteres de longitud.
+Debe contener al menos una letra mayúscula, una letra minúscula, un número y un carácter especial (por ejemplo, !, @, #, etc.).

@@ -1,0 +1,2 @@
+Conversor de temperatura:
+Este programa convierte una temperatura en grados Celsius a grados Fahrenheit utilizando la fórmula de conversión: fahrenheit = (celsius * 9/5) + 32.

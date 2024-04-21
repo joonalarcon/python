@@ -1,0 +1,2 @@
+Invertir una cadena:
+Este programa toma una cadena ingresada por el usuario y la invierte. Por ejemplo, si el usuario ingresa "Python", el programa mostrará "nohtyP".
